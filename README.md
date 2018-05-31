@@ -1,2 +1,2 @@
 # barcelona
-Sample repository. 
+This is just a testing repository. 
